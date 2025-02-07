@@ -28,6 +28,9 @@ Jesús de Dios Rodríguez Ostos ==> https://github.com/Jroodriguez/ProyectoPHP1.
 
 Guillermo De la Torre Aguilera ==> https://github.com/G-dlT/2ASIR-PHP.git => Escuela de musica
 
+
+
+José Ángel Perea Domínguez ==> https://github.com/Peraa11/HLC_TRABAJO => Champions
 Juan Carlos Borrego Barranco ==> https://github.com/Sin3233/HLC_JC.git => 
 
 Antonio Aguilar Humanes ==> https://github.com/elgordo9675/hlc_php_myadmin => Ferretería
